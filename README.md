@@ -19,6 +19,6 @@ sudo apt install samba-common-bin
 Run the scanner:
 Copy code
 python3 vohala_network_scanner.py
-
+```
 # Developed by [Vohala].
 Enjoy lightweight Vohala Network Scanning!
